@@ -1,5 +1,6 @@
-# Saham Kita
-This template helps you get started developing with Vue 3 on Vite using the Finnhub API.
+# Our Stock
+This template helps you get started with Vue3 development on Vite using Finnhub API to display real-time stock/crypto data in the `US` region and display market news. This allows users to easily access market data.
+
 
 Further configuration for Vite server
 See https://vite.dev/config/
